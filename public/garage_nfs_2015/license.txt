@@ -1,0 +1,11 @@
+Model Information:
+* title:	Garage NFS 2015
+* source:	https://sketchfab.com/3d-models/garage-nfs-2015-5c7d043066844999b92f82551b0fcc45
+* author:	LosAutosArgentinos (https://sketchfab.com/laa2004)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Garage NFS 2015" (https://sketchfab.com/3d-models/garage-nfs-2015-5c7d043066844999b92f82551b0fcc45) by LosAutosArgentinos (https://sketchfab.com/laa2004) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
